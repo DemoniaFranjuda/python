@@ -1,1 +1,1 @@
-print('Aula Git GitHub')
+print('Aula GitHub')
